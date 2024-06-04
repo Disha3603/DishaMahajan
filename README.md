@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Disha Mahajan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src=https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif alt="disha3603" /> </p>
+<p align="left"> <img src=https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif alt="disha3603" /> </p> 
 
 - 🌱 I’m currently learning **C++,ruby**
 
